@@ -77,19 +77,23 @@ font-family: 'Lato', sans-serif;
   text-decoration: none;
 }
 
-.servicesicons {
+.servicebox {
   float: left;
   max-width: 320px
 }
 
 .servicetitle{
-  ;
+float: left;
 }
 
 
 
-.servicebox a a{
+.servicetext{
   font-size: .6rem;
+}
+
+.Services icons/pencil.png {
+  float: left;
 }
 
 /*media*/
