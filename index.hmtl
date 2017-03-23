@@ -47,6 +47,29 @@
 
   </div>
 
+  <div class="services"/>
+    Our Services
+    <p> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum. Duis mollis, non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh. </p>
+
+    <div class="servicebox">
+
+      <div class="servicetitle">
+        Custom Design
+      </div>
+
+        <div class="servicetext">
+          tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf tsdvhue khd hjsdjbf  eibv bssckrfj rksbkvrf
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+
 </body>
 
 </html>

@@ -58,6 +58,42 @@ font-family: 'Lato', sans-serif;
   width: 90%;
 }
 
+.services {
+  padding-left: 40px;
+  max-width: 960px;
+  padding: 65px 0px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.9rem;
+  font-weight: bold;
+  color: #666D89
+
+}
+
+.services p {
+  color: #767e9e;
+  font-size: 1.1rem;
+  font-weight: lighter;
+  text-decoration: none;
+}
+
+.servicesicons {
+  float: left;
+  max-width: 320px
+}
+
+.servicetitle{
+  ;
+}
+
+
+
+.servicebox a a{
+  font-size: .6rem;
+}
+
+/*media*/
+
 @media screen and (max-width: 550px ) {
 
   .logo {
