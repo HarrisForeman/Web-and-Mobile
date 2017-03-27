@@ -58,6 +58,8 @@ font-family: 'Lato', sans-serif;
   width: 90%;
 }
 
+/*services*/
+
 .services {
   padding-left: 40px;
   max-width: 960px;
@@ -70,6 +72,7 @@ font-family: 'Lato', sans-serif;
 
 }
 
+
 .services p {
   color: #767e9e;
   font-size: 1.1rem;
@@ -77,23 +80,105 @@ font-family: 'Lato', sans-serif;
   text-decoration: none;
 }
 
-.servicebox {
-  float: left;
-  max-width: 320px
-}
-
 .servicetitle{
-float: left;
+  font-size: 1.3rem;
+  float: left;
 }
-
-
 
 .servicetext{
   font-size: .6rem;
+  max-width: 250px;
+  padding-left: 70px;
+}
+
+.servicesboxes {
+  margin-top: 10px;
+}
+
+ /*Servicebox pencil */
+
+.serviceboxpencil {
+  float: left;
+  max-width: 320px;
 }
 
 .Services icons/pencil.png {
   float: left;
+}
+
+/*Servicebox lightbulb */
+
+.seriveboxlightbulb {
+  float: left;
+  max-width: 320px;
+}
+
+.Services icons/lightbulb.png {
+  float: left;
+}
+
+/*Servicebox heart*/
+
+.seriveboxheart {
+  float: left;
+  max-width: 320px;
+}
+
+.Services icons/heart.png {
+  float: left;
+}
+
+/*Servicebox Phone*/
+
+.seriveboxphone {
+  float: left;
+  max-width: 320px;
+}
+
+.Services icons/phone.png {
+  float: left;
+}
+
+/*Servicebox Speech*/
+
+.seriveboxspeech {
+  float: left;
+  max-width: 320px;
+}
+
+.Services icons/speech.png {
+  float: left;
+}
+
+/*Servicebox Star*/
+
+.seriveboxstar {
+  float: left;
+  max-width: 320px;
+}
+
+.Services icons/star.png {
+  float: left;
+}
+
+/* Portfolio 8 */
+
+.porfolioBG {
+  background-color: #2d2f3b;
+  color: #666d89;
+}
+
+.porfolio {
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 65px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 960px;
+  font-weight: 900;
+  font-size: 1.8rem;
+  height: auto;
+
 }
 
 /*media*/
